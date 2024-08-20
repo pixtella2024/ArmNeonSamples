@@ -1,0 +1,11 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 120
+AlignConsecutiveAssignments:
+  Enabled: true
+  AlignCompound: true
+AlignTrailingComments: true
+AlignConsecutiveDeclarations: Consecutive
+PointerAlignment: Right
+ReferenceAlignment: Pointer
+UseTab: Never
